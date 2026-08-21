@@ -1,3 +1,4 @@
 # github
 this is my first project
-author- samriddhi bera
+<br>
+author- Samriddhi Bera
